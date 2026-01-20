@@ -1,0 +1,5 @@
+{
+  "name": "SyncTask - Minimalist Group Tasks",
+  "description": "A clean, minimalist task management app for groups. Sign in, claim unassigned tasks, and earn points for completing them. Features a sleek circular checkbox interface and separate views for active and completed work.",
+  "requestFramePermissions": []
+}
